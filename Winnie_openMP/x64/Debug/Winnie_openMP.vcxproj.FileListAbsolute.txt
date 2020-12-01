@@ -1,0 +1,2 @@
+C:\Users\ddtar\Documents\hse_pe\АВС\winnie_openMP\Winnie_openMP\x64\Debug\Winnie_openMP.exe
+C:\Users\ddtar\Documents\hse_pe\АВС\winnie_openMP\Winnie_openMP\x64\Debug\Winnie_openMP.pdb

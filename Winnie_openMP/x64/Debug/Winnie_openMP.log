@@ -1,0 +1,4 @@
+﻿  Winnie_openMP.cpp
+C:\Users\ddtar\Documents\hse_pe\АВС\winnie_openMP\Winnie_openMP\Winnie_openMP.cpp(18,64): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ddtar\Documents\hse_pe\АВС\winnie_openMP\Winnie_openMP\Winnie_openMP.cpp(29,90): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Winnie_openMP.vcxproj -> C:\Users\ddtar\Documents\hse_pe\АВС\winnie_openMP\Winnie_openMP\x64\Debug\Winnie_openMP.exe
